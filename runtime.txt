@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 python-3.12
+=======
+python-3.12
+>>>>>>> ec72988bf9d1abc36a4a075cc6f4b70836d34ed7
